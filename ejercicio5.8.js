@@ -20,7 +20,6 @@ for(i=0;i<vector1.length;i++){
 
 let j=0;
 while(j<vector2.length){
-    console.log(`Vector 2 posicion ${j} valor : ${vector2[j]}`);
-    
+    console.log(`Vector 2 posicion ${j} valor : ${vector2[j]}`);   
     j++;
 }
